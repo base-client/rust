@@ -1,4 +1,4 @@
-# base-client-rust
+# Base Client for Rust
 
 ## Build
  - debug

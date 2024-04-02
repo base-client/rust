@@ -1,4 +1,4 @@
-use common_library_rust::socket::client::Client;
+use common_library::socket::client::Client;
 use std::env;
 use std::net::SocketAddr;
 use std::str::FromStr;
